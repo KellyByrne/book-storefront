@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* button.primary {
+    background-color: #046A38;
+    color: white;
+}
+
+button.secondary {
+    color: #046A38;
+    background-color: white;
+    outline: 3px solid #046A38;
+} */
+
+
+.flex {
+    display:flex;
+}
+
+.space-evenly {
+    justify-content: space-evenly;
+}
+
+form {
+    margin-left: 30px;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 3px;
+}
